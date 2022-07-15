@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-size: 100%;
+  }
+  
+  body {
+    background-color: black;
+    justify-content: center;
+  }
+  
+  .container {
+    max-width: 1700px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+  }
+
